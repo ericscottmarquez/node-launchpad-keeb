@@ -1,0 +1,19 @@
+{
+  "name": "launchpad-keeb",
+  "version": "1.0.0",
+  "description": "a program to map a launchpad input to use as a traditional computer keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "kbm-robot": "^0.0.4",
+    "launchpad.js": "^3.3.0",
+    "launchpadcore": "^0.1.0",
+    "midi": "^2.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
